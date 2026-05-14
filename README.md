@@ -7,6 +7,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/theopenlane/core.svg)](https://pkg.go.dev/github.com/theopenlane/core)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache2.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=theopenlane_core&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=theopenlane_core)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsfunk-dev%2Fcore.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsfunk-dev%2Fcore?ref=badge_shield)
 
 </div>
 
@@ -270,3 +271,7 @@ extensible services:
 ## Sponsoring
 
 If any of our code or projects have helped you or you just want to help us out, we massively appreciate a sponsorship on our github project of any level!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsfunk-dev%2Fcore.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsfunk-dev%2Fcore?ref=badge_large)
